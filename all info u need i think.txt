@@ -1,0 +1,110 @@
+# SimC Addon 1.9.1
+
+hunter="Wulfeagle"
+level=110
+race=goblin
+region=eu
+server=thunderhorn
+role=attack
+professions=leatherworking=800/skinning=800
+talents=2111132
+spec=beast_mastery
+artifact=56:0:0:0:0:1095:4:1636:1:882:1:1336:1:1520:26:881:1:880:1:879:1:878:1:1368:1:1519:1:877:1:876:1:875:4:874:4:873:4:872:4:871:4:870:4:869:4:868:4:1518:1:1517:4
+crucible=1739:1782:869/1739:1783:870/1739:1771:1095
+
+head=,id=152133,bonus_id=3610/1472/3528
+neck=,id=132444,enchant_id=5890,gem_id=151580,bonus_id=3459/3630
+shoulder=,id=152135,enchant_id=5883,bonus_id=3610/1487/3337
+back=,id=152131,enchant_id=5435,bonus_id=3610/42/1472/3528
+chest=,id=152130,bonus_id=3610/43/1472/3528
+wrist=,id=137101,bonus_id=3459/3630
+hands=,id=147048,bonus_id=3562/1512/3336
+waist=,id=151326,bonus_id=3418/1607/3337
+legs=,id=152370,gem_id=151580,bonus_id=3614/1808/1487/3337
+feet=,id=134465,gem_id=151580,bonus_id=3534/1808/1607/3337
+finger1=,id=134524,enchant_id=5427,bonus_id=3536/1597/3336
+finger2=,id=147195,enchant_id=5427,bonus_id=3562/1512/3336
+trinket1=,id=154174,bonus_id=3985/3988
+trinket2=,id=151968,bonus_id=3611/1487/3528
+main_hand=,id=128861,gem_id=155853/137490/152293,bonus_id=726,relic_id=3610:1482:3528/3534:1602:3337/3610:1472:3528
+
+### Gear from Bags
+#
+# The Shadow Hunter's Voodoo Mask (1000)
+# head=,id=137064,bonus_id=3459/3630
+#
+# Empyrial Elemental Crown of the Fireflash (935)
+# head=,id=151589,gem_id=151580,bonus_id=1692/3408/3609/600/3608
+#
+# Helm of Shadowy Descent (930)
+# head=,id=151324,bonus_id=3534/1582/3528
+#
+# Weather-Beaten Fishing Hat (10)
+# head=,id=33820
+#
+# Shadowfused Chain Coif (940)
+# head=,id=152000,bonus_id=3610/1482/3336
+#
+# Chain of the Unmaker (940)
+# neck=,id=152283,enchant_id=5437,bonus_id=3610/42/1472/3528
+#
+# Chain of the Unmaker (940)
+# neck=,id=152283,bonus_id=3610/1472/3528
+#
+# Shadow Archer's Spaulders (945)
+# shoulder=,id=139245,enchant_id=5883,bonus_id=3510/1597/3337
+#
+# Mainsail Cloak (960)
+# back=,id=134406,bonus_id=3536/1612/3337
+#
+# Putrid Carapace (940)
+# back=,id=134408,enchant_id=5435,gem_id=151580,bonus_id=3418/1808/1592/3337
+#
+# Cloak of Coordination (60)
+# back=,id=65274
+#
+# Oronaar Disciple's Chestguard of the Fireflash (900)
+# chest=,id=152768,bonus_id=1696/3629/1492/3337
+#
+# Tideskorn Vest (960)
+# chest=,id=134214,bonus_id=3536/1622/3337
+#
+# Parsel's Tongue (1000)
+# chest=,id=151805,bonus_id=3459/3630
+#
+# Argent Crusader's Tabard (1)
+# tabard=,id=46874
+#
+# Scalding Shatterguards (930)
+# wrist=,id=152280,bonus_id=3610/1472/3528
+#
+# Magnetized Blasting Cap Launcher (1000)
+# wrist=,id=141353,bonus_id=3459/3630
+#
+# Roar of the Seven Lions (1000)
+# waist=,id=137080,bonus_id=3459/3630
+#
+# Sash of the Gilded Rose (965)
+# waist=,id=152007,bonus_id=3610/1507/3337
+#
+# Qa'pla, Eredun War Order (1000)
+# feet=,id=137227,bonus_id=1811/3630
+#
+# Soul of the Huntmaster (1000)
+# finger1=,id=151641,enchant_id=5427,gem_id=151580,bonus_id=3459/3630
+#
+# Zealous Tormentor's Ring (930)
+# finger1=,id=152284,enchant_id=5427,bonus_id=3610/1472/3528
+#
+# Insignia of the Grand Army (1000)
+# finger1=,id=152626,gem_id=151580,bonus_id=3459/3630
+#
+# Kil'jaeden's Burning Wish (1000)
+# trinket1=,id=144259,bonus_id=3459/3630
+#
+# Convergence of Fates (915)
+# trinket1=,id=140806,bonus_id=3573/1512/3336
+#
+# Nat's Lucky Fishing Pole (20)
+# main_hand=,id=45858,enchant_id=5930
+#
